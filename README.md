@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-About Me 👋<br>Hi, I’m Shubham Kumar 👨‍💻!<br>I’m a passionate developer with a focus on web Development and a love for learning new tools and technologies. <br><br>🔭 I’m currently working on Bank System.<br>🌱 I’m constantly learning about Java Full Stack.<br>💬 Ask me about [specific skills or technologies you're comfortable with].<br>⚡ Fun fact: I’m on a mission to learn one new programming language every year.<br><br>I love contributing to open-source projects, collaborating with fellow developers, and sharing knowledge with others in the community. Check out my repositories to see what I'm working on!
+Hi, I’m Shubham Kumar 👨‍💻!<br>I’m a passionate developer with a focus on web Development and a love for learning new tools and technologies. <br><br>🔭 I’m currently working on Bank System.<br>🌱 I’m constantly learning about Java Full Stack.<br>💬 Ask me about [specific skills or technologies you're comfortable with].<br>⚡ Fun fact: I’m on a mission to learn one new programming language every year.<br><br>I love contributing to open-source projects, collaborating with fellow developers, and sharing knowledge with others in the community. Check out my repositories to see what I'm working on!
 
 
 ## 🌐 Socials:
